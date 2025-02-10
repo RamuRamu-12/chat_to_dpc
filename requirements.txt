@@ -13,4 +13,5 @@ langchain_openai
 streamlit
 pytesseract
 opencv-python-headless
+python-docx
 
