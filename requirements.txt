@@ -12,3 +12,4 @@ faiss-cpu
 langchain_openai
 streamlit
 pytesseract
+python-opencv
